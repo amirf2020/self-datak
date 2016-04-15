@@ -258,19 +258,18 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[datak v1 - Open Source
  
-https://github.com/DATAKTM/datak
+https://github.com/amirf2020/self-datak
 
 Our team!
-ramtin (@XxnfratxX)
+mehran (mehran_hpr)
 ALI (tnt54)
 hafez (@hafez1116hafez)
 MohaMMAd(@joker_admin_2)
 mohamad2 (@Blackwolf_admin)
-
+devloper (@alfroshotak)
 Special thanks to:
 Amir (@ThisIsamirh)
-Arash (@A_HelloWorld)
-Shahab (@ThisIsRaDiCaL)
+sina (@max_car)
 sorblock (@sorblack)
 
 Our channels:
